@@ -9,26 +9,26 @@
 	border:1px solid lightgray;
 	padding:10px;
 	height:60px;
-	width:720px;
+	width:800px;
 	background-color:white;
 	
 }
 .two{
 	position:relative;
 	bottom:40px;
-	right:-650px;
+	text-align:right;
 	font-style:italic;
 }
 .three{
 	border:1px solid lightgray;
 	padding:10px;
 	height:60px;
-	width:720px;
+	width:800px;
 	background-color:white;
 }
 .four{
 	position:relative;
 	bottom:40px;
-	right:-650px;
+	text-align:right;
 	font-style:italic;
 }
